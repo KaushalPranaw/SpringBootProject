@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="springboot_security"/>
+<aop-project name="demo6_security_jdbc_auth_bcrypt"/>
+<aop-project name="springboot_jsp_mysql_crud"/>
+<aop-project name="demo5_security_jdbc"/>
+<aop-project name="Day1"/>
+<aop-project name="security_3"/>
+<aop-project name="SpringSecurityTest"/>
+<aop-project name="springboot_security2"/>
+<aop-project name="springboot_crud_mysql"/>
+<aop-project name="demo5_security"/>
+<aop-project name="demo6_security_jdbc_auth_handler"/>
+<aop-project name="demo5_security_jdbc_authentication_csrf"/>
+<aop-project name="demo6_security_hib_authentication"/>
+<aop-project name="security4"/>
+<aop-project name="demo4_login"/>
+<aop-project name="day1_spring_angular"/>
+<aop-project name="demo1"/>
+<aop-project name="demo5_security_jdbc_authentication"/>
+<aop-project name="demo3_testing"/>
+<aop-project name="poc_test_simulator"/>
+</aop-reference-model>

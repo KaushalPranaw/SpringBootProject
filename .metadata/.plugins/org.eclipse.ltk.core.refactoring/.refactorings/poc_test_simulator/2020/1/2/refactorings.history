@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.yash.pojos.JwtREsponse&apos; to &apos;JwtResponse&apos;&#x0D;&#x0A;- Original project: &apos;poc_test_simulator&apos;&#x0D;&#x0A;- Original element: &apos;com.yash.pojos.JwtREsponse&apos;&#x0D;&#x0A;- Renamed element: &apos;com.yash.pojos.JwtResponse&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;JwtREsponse&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java&lt;com.yash.pojos{JwtREsponse.java[JwtREsponse" matchStrategy="1" name="JwtResponse" qualified="false" references="true" similarDeclarations="false" stamp="1578459058529" textual="false" version="1.0"/>
+</session>

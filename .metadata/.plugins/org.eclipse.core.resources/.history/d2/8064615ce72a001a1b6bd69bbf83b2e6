@@ -1,0 +1,28 @@
+package com.yash.service;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.yash.dao.TestDao;
+import com.yash.pojos.Test;
+
+@Service
+public class TestService  {
+
+	
+	@Autowired
+	private TestDao testDao;
+	
+	public List<Test> findAllTest()
+	{
+		return testDao.findAll();
+	}
+	
+	public void saveTest(Test test)
+	{
+		 testDao.save(test);
+	}
+	
+}

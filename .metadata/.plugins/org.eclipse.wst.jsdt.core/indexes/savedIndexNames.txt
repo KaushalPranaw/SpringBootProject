@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+F:\ALL JAVA PROJECTS\springbootLearn\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3437896991.index
+1798499991.index
+500933060.index
+16335561.index
+2571569408.index
+2011082912.index
+4193200280.index
